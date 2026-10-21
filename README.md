@@ -1,21 +1,39 @@
-# 💫 About Me:
-👋 About Me<br>Hi! I'm a passionate Software Engineering graduate actively looking for my first opportunity as a developer.<br>I have hands-on experience in Full Stack and Front-End development, working with technologies like Kotlin, Java, Flutter, and more. I'm also comfortable with Agile practices and love collaborating on meaningful projects.<br><br>Recently, I've started diving into the world of blockchain development, exploring smart contracts and decentralized applications — and I’m excited to build and share what I learn along the way.<br><br>I'm always open to learning, growing, and contributing to innovative teams and open-source projects.<br><br>🚀 Currently Working On<br>Learning Solidity and smart contract development<br><br>Building personal projects to sharpen my blockchain & web development skills<br><br>Preparing for junior developer roles
+# Aziz Khemira
 
+**Full Stack Software Engineer** based in Tunis, Tunisia.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-aziz-khemira) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:medaziz.khemira@gmail.com) 
+I work across Python, Java/Spring Boot, .NET, and React/Angular, and I build features that use machine learning and language models.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aziz-khemira&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aziz-khemira&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-khemira&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+At Express Service Plus, I designed and built ShipWise AI, a platform that processes import-export documents and scores shipment risk: a FastAPI, PostgreSQL, and Celery backend, a React dashboard, an HS code classifier, an XGBoost risk model, and a RAG chatbot, deployed with Docker and GitHub Actions.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aziz-khemira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Open to full stack, backend, and machine learning engineering roles.
 
----
-[![](https://visitcount.itsvg.in/api?id=aziz-khemira&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+- **Languages:** Python, Java, C#, JavaScript, TypeScript, SQL, Kotlin
+- **Backend:** FastAPI, Spring Boot, .NET Core, Node.js, Celery
+- **Frontend:** React, Angular, Tailwind CSS, Bootstrap
+- **ML and LLMs:** scikit-learn, XGBoost, pandas, LangChain, ChromaDB
+- **Data and DevOps:** PostgreSQL, MySQL, Docker, GitHub Actions, Jenkins, Linux
+
+## Projects
+
+<!-- Add one line per project once the repos are public, for example:
+- [project-name](https://github.com/aziz-khemira/project-name): one sentence on what it does and the stack used. -->
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/aziz-khemira](https://www.linkedin.com/in/aziz-khemira/)
+- Email: [medaziz.khemira@gmail.com](mailto:medaziz.khemira@gmail.com)
